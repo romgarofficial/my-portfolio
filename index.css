@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.center-crop{
+    width: 100%;
+    max-height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.text-bini1{
+    color: #c37892;
+}
+
+.text-bini2{
+    color: #a4b6dd;
+}
+
+.bg-bini1{
+    background-color: #c37892;
+}
+
+.bg-bini2{
+    background-color: #a4b6dd;
+}
+
+.vh-25{
+    height: 25vh;
+}
+
+.vh-50{
+    height: 50vh;
+}
+
+.vh-75{
+    height: 75vh;
+}
+
+.bor-bot{
+    border-bottom: 6px solid #a4b6dd;
+}
+
+.text-effect:hover{
+    transition: 0.8s;
+    letter-spacing: 20px;
+    color: #c37892;
+}
+
+.text-effect2:hover{
+    transition: 0.8s;
+    letter-spacing: 20px;
+    color: #f3f3f3;
+}
+
+
+
+
